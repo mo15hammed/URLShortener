@@ -1,20 +1,14 @@
 URL Shortener Web Application.
 
 Used Languages:-
-
 -Html \ Css \ Bootstrap.
-
 -Php.
-
 -MySql.
 
 
 Features:-
-
 -Simple Design.
-
 -Responsive Design.
-
 -".htaccess" Used.
 
 
