@@ -1,0 +1,88 @@
+body {
+	font-size: 14px;
+	font-family: Tahoma, sans-serif;
+	background-color: #2c3e50;
+	color: #FFF;
+}
+
+.title {
+	font-weight: normal;
+	
+}
+
+.container {
+	width: 100%;
+	text-align: center;
+	margin: 100px auto;
+	padding: 50px 0px 50px;
+	background-color: #27ae60;
+	webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	cursor: default;
+
+}
+
+.container .title {
+	margin-top: 0px;
+	font-weight: normal;
+	font-size: 40px;
+	margin-left: -25px;
+}
+
+.container p {
+	height: 18px;
+	margin-bottom: 0px;
+
+}
+
+
+
+.container input {
+	background-color: #FFF;
+	border: 1px solid #AAA;
+	margin: 0px;
+	padding: 10px;
+	color: #000;
+}
+
+
+.container input[type="url"] {
+	width: 400px;
+	padding: 10px 15px;
+
+	border: none;
+	border-radius: 5px;
+	
+}
+
+.container input[type="submit"] {
+	background-color: #FFF;
+	color: #27AE60;
+	font-weight: bold;
+	cursor: pointer;
+	border: none;
+	border-radius: 30px;
+	box-shadow: 9px 5px 7px -7px #34495e;
+
+	height: 70px;
+	width: 100px;
+	
+	position: relative;
+	right: 17px;
+	
+}
+
+.container p {
+	margin-top: 20px;
+	margin-left: -25px;
+}
+
+.container p a {
+	webkit-user-select: auto;
+	-moz-user-select: auto;
+	-ms-user-select: auto;
+	user-select: auto;
+	cursor: pointer;
+}

@@ -1,0 +1,38 @@
+/* Extra Small Screens */
+
+@media (max-width: 520px) {
+
+    .container .title {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .container input[type="url"]{
+        width: 90%;
+    }
+    
+    .container input[type="submit"] {
+        margin: 10px auto;
+        right: 0px;
+        box-shadow: 0px 5px 10px -3px #34495e;
+        height: 50px;
+        outline: none;
+    }
+
+    .container p {
+        margin-left: 0px;
+    }
+}
+
+
+/* Small Screens */
+
+@media (min-width: 768px) and (max-width:991px) {
+    
+}
+
+
+
+
+
+/*http://www.google.com*/
